@@ -218,7 +218,10 @@ nav [class*="fa-"]:hover {
     border-top: 1px solid var(--aqua);
     border-radius: 25px;
 }
-
+#link{
+  text-decoration: none;
+  color:#38b3f5;
+}
 /* footer section */
 
 footer {
